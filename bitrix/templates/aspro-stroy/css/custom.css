@@ -1,0 +1,23 @@
+/* CSS kod pishite v etom faile, chotobi pri ustanovke obnovlenii ne bilo problem  */
+/* --------------------------------------- */
+/* Here you can put custom css rules for your site */
+
+#footer .email a {
+    margin-left: 0%;
+}
+.main2 .color_block{
+    padding-bottom: 390px;
+}
+.sort{
+display: none !important;
+}
+
+.fa-viber:before{
+	content: '';
+	background: url("../images/viber.png") no-repeat;
+	width: 16px;
+	height: 17px;
+	position: absolute;
+	top: 1px;
+	float: none;
+}
